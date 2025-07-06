@@ -1,7 +1,6 @@
-Flask
+flask
 flask-cors
-gunicorn
-mediapipe
-opencv-python
 tensorflow
+opencv-python
+mediapipe
 numpy
